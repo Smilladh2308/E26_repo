@@ -12,3 +12,6 @@ This is my _first_ markdown file in Experimental Psycholinguistics!
 *cry me a river*
 **okay?**
 
+### Introduction 
+
+We are trying to push things to github 
